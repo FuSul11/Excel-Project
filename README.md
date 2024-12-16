@@ -9,6 +9,7 @@ Used the ‘AVERAGE’ function to show me the average commission
 
 The Results can be seen below:
 
+![image alt](https://github.com/FuSul11/Excel-Project/blob/main/excel%201.png)
 
 
 
